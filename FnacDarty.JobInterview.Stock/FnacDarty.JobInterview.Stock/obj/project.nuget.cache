@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b8BIpHNQ9F90Le2we9I9fy16t0f8NGA27EsRDMUIFReBuE1hywvKjiOFrjG1FH7Cmbfinj7yOmnN4X1r1C7H0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OPERANTIC\\Desktop\\FnacDarty.JobInterview.Stock\\FnacDarty.JobInterview.Stock\\FnacDarty.JobInterview.Stock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

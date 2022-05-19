@@ -1,0 +1,7 @@
+C:\Users\OPERANTIC\Desktop\FnacDarty.JobInterview.Stock\.vs\FnacDarty.JobInterview.Stock\v17\lut\0\b\FnacDarty.JobInterview.Stock\Debug\netstandard2.0\FnacDarty.JobInterview.Stock.deps.json
+C:\Users\OPERANTIC\Desktop\FnacDarty.JobInterview.Stock\.vs\FnacDarty.JobInterview.Stock\v17\lut\0\b\FnacDarty.JobInterview.Stock\Debug\netstandard2.0\FnacDarty.JobInterview.Stock.dll
+C:\Users\OPERANTIC\Desktop\FnacDarty.JobInterview.Stock\.vs\FnacDarty.JobInterview.Stock\v17\lut\0\i\FnacDarty.JobInterview.Stock\Debug\netstandard2.0\FnacDarty.JobInterview.Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OPERANTIC\Desktop\FnacDarty.JobInterview.Stock\.vs\FnacDarty.JobInterview.Stock\v17\lut\0\i\FnacDarty.JobInterview.Stock\Debug\netstandard2.0\FnacDarty.JobInterview.Stock.AssemblyInfoInputs.cache
+C:\Users\OPERANTIC\Desktop\FnacDarty.JobInterview.Stock\.vs\FnacDarty.JobInterview.Stock\v17\lut\0\i\FnacDarty.JobInterview.Stock\Debug\netstandard2.0\FnacDarty.JobInterview.Stock.AssemblyInfo.cs
+C:\Users\OPERANTIC\Desktop\FnacDarty.JobInterview.Stock\.vs\FnacDarty.JobInterview.Stock\v17\lut\0\i\FnacDarty.JobInterview.Stock\Debug\netstandard2.0\FnacDarty.JobInterview.Stock.csproj.CopyComplete
+C:\Users\OPERANTIC\Desktop\FnacDarty.JobInterview.Stock\.vs\FnacDarty.JobInterview.Stock\v17\lut\0\i\FnacDarty.JobInterview.Stock\Debug\netstandard2.0\FnacDarty.JobInterview.Stock.dll
